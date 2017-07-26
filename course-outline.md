@@ -210,8 +210,8 @@ embodiment of setjmp / longjmp
 goroutine
 writing goroutine
 
+</pre>
 
 GROUP PROJECT
-an interesting project that brings in together the conceptual learning about Go capabilities and the packages to solve the problem.
 
-</pre>
+an interesting project that brings in together the conceptual learning about Go capabilities and the packages to solve the problem.
