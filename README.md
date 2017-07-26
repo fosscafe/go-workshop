@@ -4,9 +4,9 @@ Go language FOSS community workshop
 ## Dates
 the workshop is spread across 3 meetups each spanning 3 hours (0930 to 1230) hrs
 
-* Sat, August 5, 2017
-* Sat, August 12, 2017
-* Sat, August 19, 2017
+* Sat, August 5, 2017  (Workshop part I - beginner)
+* Sat, August 12, 2017 (Workshop part II - intermediate)
+* Sat, August 19, 2017 (Workshop part III - intermediate)
 
 ## Venue
 Thanks to Amit Agarwal, Zendrive has graciously agreed to host the meetup
